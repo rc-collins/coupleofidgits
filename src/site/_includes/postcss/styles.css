@@ -29,6 +29,8 @@ body {
   line-height: 1.8;
   min-height: 100vh;
   background:  $page-color;
+  background-image: url(/images/background.png);
+  background-size: cover;
 
   @media (min-width: $narrow) {
     font-size: 18px;
@@ -55,6 +57,7 @@ h1, h2, h3 {
   margin-top: 2em;
   margin-bottom:0.2em;
   line-height: 1;
+  text-shadow: 5px 5px 5px #000;
 }
 h1 {
   font-size: 2.5em;
@@ -73,6 +76,7 @@ h1 {
 p {
   margin-top: 1em;
   margin-bottom: 1em;
+  text-shadow: 5px 5px 5px #000;
 }
 
 .subtitle {
@@ -128,6 +132,7 @@ a:focus {
     text-align: left;
     color: mix($text-color, $accent-color, 80%);
     text-decoration: none;
+    text-shadow: 5px 5px 5px #000;
   }
   a:hover,
   a:focus {
