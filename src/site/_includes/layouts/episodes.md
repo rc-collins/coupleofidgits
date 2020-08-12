@@ -12,7 +12,7 @@ templateEngineOverride: njk, md
   <h2>{{ season }}</h2>
   <ul class="podcasts">
   {% if 'Season 1' in season %}
-    {%- for page in collections.season1 -%}
+    {%- for page in collections.episode -%}
     <li><a href="{{ page.url }}">{{ page.data.title }}</a></li>
     {%- endfor -%}
   {% endif %}
