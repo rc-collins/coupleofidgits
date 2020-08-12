@@ -1,5 +1,5 @@
 ---
-title: Couple of Idgits
+title: Couple of Idjits
 subtitle: Watching Supernatural and talking about it everyday. 
 layout: layouts/base.njk
 ---
