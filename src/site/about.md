@@ -1,7 +1,7 @@
 ---
 title: About Us
 layout: layouts/base.njk
-subtitle: Clone and deploy your own EleventyOne starter template.
+subtitle: 
 ---
 
 ## What is this?
