@@ -19,7 +19,7 @@ layout: layouts/base.njk
 - [Stitcher](https://www.stitcher.com/podcast/couple-of-idjits)
 - [XML Feed](http://cast.rocks/hosting/27557/feeds/CAURZ.jpg?e=0df284f)
 
-## Find Us Online
+## Connect
 
 - Facebook Group - [Armchair Hunters](https://www.facebook.com/groups/437248500580788/)
 - Email - [coupleofidjits.podcast@gmail.com](mailto:coupleofidjits.podcast@gmail.com)
