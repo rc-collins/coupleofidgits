@@ -14,6 +14,10 @@ layout: layouts/base.njk
 {%- endfor -%}
 </ul>
 
+## Podcast Feed
+
+http://cast.rocks/hosting/27557/feeds/CAURZ.jpg?e=0df284f
+
 ## Find Us Online
 
 - Facebook Group - [Armchair Hunters](https://www.facebook.com/groups/437248500580788/)
