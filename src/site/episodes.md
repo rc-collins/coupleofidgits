@@ -8,7 +8,7 @@ subtitle: A full archive of episodes.
   <li>
     <a href="{{ page.url }}">{{ page.data.title }}</a> -
     <time datetime="{{ page.date }}">{{ page.date | dateDisplay("LLLL d, y") }}</time><br />
-    {{ page.content | safe }}
+    {{ content | safe }}
   </li>
 {%- endfor -%}
 </ul>
