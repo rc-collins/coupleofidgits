@@ -1,6 +1,6 @@
 ---
 title: Episode 0 - Let's Get Started
-subtitle: Introductions and explaination on what we are doing.
+subtitle: Introductions and explanation on what we are doing.
 date: 2020-08-12
 season: Season 1
 tags: ['episode']
