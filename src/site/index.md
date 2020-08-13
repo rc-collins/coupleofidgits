@@ -1,6 +1,6 @@
 ---
 title: Couple of Idjits
-subtitle: Watching Supernatural and talking about it everyday, episode by episode. 
+subtitle: An episode by episode podcast covering Supernatural
 layout: layouts/base.njk
 ---
 
