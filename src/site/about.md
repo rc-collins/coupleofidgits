@@ -1,7 +1,7 @@
 ---
 title: About Us
 layout: layouts/base.njk
-subtitle: 
+subtitle: Test
 ---
 
 ## What is this?
@@ -11,7 +11,6 @@ CW's Supernatural has been on TV since 2005 and is now available to watch on Net
 Penny is a stay at home wife whos first love is her dogs.  Behind them are Superhero/Sci-Fi movies TV shows, but she has never read a comic book in her life. odd.
 
 Dan builds Internet. While he will watch pretty much any TV, he tends to be a geek and prefers to watch YouTube videos of electronics being taking to bits.
-
 
 ## Connect
 
