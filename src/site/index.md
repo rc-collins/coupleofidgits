@@ -14,7 +14,7 @@ layout: layouts/base.njk
 {%- endfor -%}
 </ul>
 
-## Subscribe
+## Feeds
 
 - [Stitcher](https://www.stitcher.com/podcast/couple-of-idjits)
 - [XML Feed](http://cast.rocks/hosting/27557/feeds/CAURZ.jpg?e=0df284f)
