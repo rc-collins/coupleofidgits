@@ -14,4 +14,10 @@ layout: layouts/base.njk
 {%- endfor -%}
 </ul>
 
+## Find Us Online
+
+- Facebook Group - [Armchair Hunters](https://www.facebook.com/groups/437248500580788/)
+- Email - [coupleofidjits.podcast@gmail.com](mailto:coupleofidjits.podcast@gmail.com)
+- Penny Samuelson - [Facebook](https://www.facebook.com/penny.samuelsonconderman)
+- Daniel Conderman - [YouTube](https://www.youtube.com/danconderman), [Facebook](https://www.facebook.com/conderman)
 
