@@ -6,7 +6,7 @@ subtitle:
 
 ## What is this?
 
-CW's Supernatural has been on TV since 2005 and is now available to watch on Netflix from the beginning. "Couple of Idgits" is an episode by episode podcast taking a look at Supernatural and breaking it down.
+CW's Supernatural has been on TV since 2005 and is now available to watch on Netflix from the beginning. "Couple of Idjits" is an episode by episode podcast taking a look at Supernatural and breaking it down.
 
 Penny is a stay at home wife whos first love is her dogs.  Behind them are Superhero/Sci-Fi movies TV shows, but she has never read a comic book in her life. odd.
 
