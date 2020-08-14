@@ -16,6 +16,7 @@ layout: layouts/base.njk
 
 ## Feeds
 
+- [iTunes](https://podcasts.apple.com/us/podcast/couple-of-idjits/id1527541590)
 - [Spotify](https://open.spotify.com/show/6Ul9RlsGJhn9DrPJLejToE)
 - [Stitcher](https://www.stitcher.com/podcast/couple-of-idjits)
 - [XML Feed](http://cast.rocks/hosting/27557/feeds/CAURZ.jpg?e=0df284f)
