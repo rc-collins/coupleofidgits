@@ -1,7 +1,7 @@
 ---
 title: Episode 2 - Windego
-subtitle: S01E01 - Windego
-date: 2020-08-12
+subtitle: S01E02 - Windego
+date: 2020-08-13
 season: Season 1
 tags: ['episode']
 ---
