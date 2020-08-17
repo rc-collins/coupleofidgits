@@ -1,5 +1,5 @@
 ---
-title: EPISODE 4 - PHANTOM TRAVELER
+title: Episode 4 - Phantom Traveler
 subtitle: S01E04 - Phantom Traveler
 date: 2020-08-17
 season: Season 1
