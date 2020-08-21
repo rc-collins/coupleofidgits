@@ -7,10 +7,12 @@ layout: layouts/base.njk
 ## Latest Episodes
 <ul class="listing">
 {%- for page in collections.episode | reverse -%}
+  {% if loop.index0 < 5 %}
   <li>
     <a href="{{ page.url }}">{{ page.data.title }}</a> -
     <time datetime="{{ page.date }}">{{ page.date | dateDisplay("LLLL d, y") }}</time>
   </li>
+  {% endif %}
 {%- endfor -%}
 </ul>
 
