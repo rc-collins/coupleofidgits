@@ -14,7 +14,11 @@ layout: layouts/base.njk
   </li>
   {% endif %}
 {%- endfor -%}
+  <li>
+    <a href="/episodes">See More</a>
+  </li>
 </ul>
+
 
 ## Feeds
 
