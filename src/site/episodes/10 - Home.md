@@ -1,6 +1,6 @@
 ---
-title: Episode 9 - Home
-subtitle: S01E08 - Home
+title: Episode 10 - Home
+subtitle: S01E10 - Home
 date: 2020-08-24
 season: Season 1
 tags: ['episode']
