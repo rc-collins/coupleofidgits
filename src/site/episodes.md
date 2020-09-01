@@ -19,7 +19,7 @@ subtitle: A full archive of episodes.
 
 {%- if collections.season1 -%}
 
-### Season 1
+###Season 1
 
 <ul class="listing">
 {%- for page in collections.season1 -%}
