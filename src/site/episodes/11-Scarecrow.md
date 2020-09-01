@@ -3,7 +3,7 @@ title: Episode 11 - Scarecrow
 subtitle: S01E011 - Scarecrow
 date: 2020-08-26
 season: Season 1
-tags: ['episode']
+tags: ['episode','season1']
 ---
 
 Dan and Penny go Indiana to tangle with a scarecrow with Sam and Dean.  
