@@ -20,10 +20,5 @@
       {{ content | safe }}
       {% include "footer.njk" %}
     </div>
-    {% set js %}
-      {% include "js/core.js" %}
-      {% include "js/hello.js" %}
-    {% endset %}
-    <script>{{ js | jsmin | safe }}</script>
   </body>
 </html>
