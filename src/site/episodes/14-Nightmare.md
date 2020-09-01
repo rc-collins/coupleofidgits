@@ -3,7 +3,7 @@ title: Episode 14 - Nightmare
 subtitle: S01E014 - Nightmare
 date: 2020-08-30
 season: Season 1
-tags: ['episode']
+tags: ['episode','season1']
 ---
 
 Sam keeps bugging Dean with the dreams of a "Miller Killer" in Michigan... it's about some jackass that drinks a lot of beer.  Plus, Penny screams with delight and Dan screams with fright when the sock snake attacks.
