@@ -3,7 +3,7 @@ title: Episode 9 - Home
 subtitle: S01E09 - Home
 date: 2020-08-24
 season: Season 1
-tags: ['episode']
+tags: ['episode','season1']
 ---
 
 Dan and Penny go home with Sam and Dean.  We meet Missouri for the first time.
