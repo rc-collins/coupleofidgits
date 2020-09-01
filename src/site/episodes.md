@@ -18,7 +18,9 @@ subtitle: A full archive of episodes.
 {%- endif -%}
 
 {%- if collections.season1 -%}
+
 ### Season 1
+
 <ul class="listing">
 {%- for page in collections.season1 -%}
   <li>
@@ -32,7 +34,9 @@ subtitle: A full archive of episodes.
 {%- endif -%}
 
 {%- if collections.season2 -%}
+
 ### Season 2
+
 <ul class="listing">
 {%- for page in collections.season2 -%}
   <li>
@@ -46,7 +50,9 @@ subtitle: A full archive of episodes.
 {%- endif -%}
 
 {%- if collections.season3 -%}
+
 ### Season 3
+
 <ul class="listing">
 {%- for page in collections.season3 -%}
   <li>
@@ -60,7 +66,9 @@ subtitle: A full archive of episodes.
 {%- endif -%}
 
 {%- if collections.season4 -%}
+
 ### Season 4
+
 <ul class="listing">
 {%- for page in collections.season4 -%}
   <li>
