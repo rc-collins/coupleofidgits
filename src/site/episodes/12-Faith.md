@@ -3,7 +3,7 @@ title: Episode 12 - Faith
 subtitle: S01E012 - Faith
 date: 2020-08-27
 season: Season 1
-tags: ['episode']
+tags: ['episode','season1']
 ---
 
 Dan and Penny get some chuching from a Jazz musician. Tarot cards, do they have power? All this and more is discussed.
