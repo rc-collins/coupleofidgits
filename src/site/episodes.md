@@ -60,7 +60,7 @@ subtitle: A full archive of episodes.
 {%- endif -%}
 
 {%- if collections.season4 -%}
-### Season 3
+### Season 4
 <ul class="listing">
 {%- for page in collections.season4 -%}
   <li>
