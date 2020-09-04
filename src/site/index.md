@@ -19,7 +19,6 @@ layout: layouts/base.njk
   </li>
 </ul>
 
-
 ## Feeds
 
 - [iTunes](https://podcasts.apple.com/us/podcast/couple-of-idjits/id1527541590)
@@ -35,3 +34,10 @@ layout: layouts/base.njk
 - Penny Samuelson - [Facebook](https://www.facebook.com/penny.samuelsonconderman)
 - Daniel Conderman - [YouTube](https://www.youtube.com/danconderman), [Facebook](https://www.facebook.com/conderman)
 
+<style>
+  body > div > ul:nth-child(5){
+    columns: 2;
+    -webkit-columns: 2;
+    -moz-columns: 2;  
+  }
+</style>
