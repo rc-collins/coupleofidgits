@@ -150,6 +150,8 @@ a:focus {
   }
 }
 
+.listing li {font-size:66%;}
+.listing li a {font-size:150%;}
 
 code {
   font-size: 0.8em;
