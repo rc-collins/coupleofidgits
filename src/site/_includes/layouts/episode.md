@@ -151,6 +151,6 @@ templateEngineOverride: njk, md
       </li>
     {%- endfor -%}
   {%- endif -%}
-  <br class="clear" />
+  </ul>
   </div>
 </main>
