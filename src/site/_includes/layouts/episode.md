@@ -18,7 +18,6 @@ templateEngineOverride: njk, md
         <time datetime="{{ page.date }}">{{ page.date | dateDisplay("LLLL d, y") }}</time>
         <br />
         {{ page.content | safe }}
-      </li>
     {%- endfor -%}
   {%- endif -%}
   {%- if season == 'Season 2' -%}
@@ -28,7 +27,6 @@ templateEngineOverride: njk, md
         <time datetime="{{ page.date }}">{{ page.date | dateDisplay("LLLL d, y") }}</time>
         <br />
         {{ page.content | safe }}
-      </li>
     {%- endfor -%}
   {%- endif -%}
   {%- if season == 'Season 3' -%}
@@ -38,7 +36,6 @@ templateEngineOverride: njk, md
         <time datetime="{{ page.date }}">{{ page.date | dateDisplay("LLLL d, y") }}</time>
         <br />
         {{ page.content | safe }}
-      </li>
     {%- endfor -%}
   {%- endif -%}
   {%- if season == 'Season 4' -%}
@@ -48,7 +45,6 @@ templateEngineOverride: njk, md
         <time datetime="{{ page.date }}">{{ page.date | dateDisplay("LLLL d, y") }}</time>
         <br />
         {{ page.content | safe }}
-      </li>
     {%- endfor -%}
   {%- endif -%}
   {%- if season == 'Season 5' -%}
@@ -58,7 +54,6 @@ templateEngineOverride: njk, md
         <time datetime="{{ page.date }}">{{ page.date | dateDisplay("LLLL d, y") }}</time>
         <br />
         {{ page.content | safe }}
-      </li>
     {%- endfor -%}
   {%- endif -%}
   {%- if season == 'Season 6' -%}
@@ -68,89 +63,7 @@ templateEngineOverride: njk, md
         <time datetime="{{ page.date }}">{{ page.date | dateDisplay("LLLL d, y") }}</time>
         <br />
         {{ page.content | safe }}
-      </li>
     {%- endfor -%}
   {%- endif -%}
-  {%- if season == 'Season 7' -%}
-    {%- for page in collections.season7 -%}
-      <li>
-        <a href="{{ page.url }}">{{ page.data.title }}</a> -
-        <time datetime="{{ page.date }}">{{ page.date | dateDisplay("LLLL d, y") }}</time>
-        <br />
-        {{ page.content | safe }}
-      </li>
-    {%- endfor -%}
-  {%- endif -%}
-  {%- if season == 'Season 8' -%}
-    {%- for page in collections.season8 -%}
-      <li>
-        <a href="{{ page.url }}">{{ page.data.title }}</a> -
-        <time datetime="{{ page.date }}">{{ page.date | dateDisplay("LLLL d, y") }}</time>
-        <br />
-        {{ page.content | safe }}
-      </li>
-    {%- endfor -%}
-  {%- endif -%}
-  {%- if season == 'Season 9' -%}
-    {%- for page in collections.season9 -%}
-      <li>
-        <a href="{{ page.url }}">{{ page.data.title }}</a> -
-        <time datetime="{{ page.date }}">{{ page.date | dateDisplay("LLLL d, y") }}</time>
-        <br />
-        {{ page.content | safe }}
-      </li>
-    {%- endfor -%}
-  {%- endif -%}
-  {%- if season == 'Season 10' -%}
-    {%- for page in collections.season10 -%}
-      <li>
-        <a href="{{ page.url }}">{{ page.data.title }}</a> -
-        <time datetime="{{ page.date }}">{{ page.date | dateDisplay("LLLL d, y") }}</time>
-        <br />
-        {{ page.content | safe }}
-      </li>
-    {%- endfor -%}
-  {%- endif -%}
-  {%- if season == 'Season 11' -%}
-    {%- for page in collections.season11 -%}
-      <li>
-        <a href="{{ page.url }}">{{ page.data.title }}</a> -
-        <time datetime="{{ page.date }}">{{ page.date | dateDisplay("LLLL d, y") }}</time>
-        <br />
-        {{ page.content | safe }}
-      </li>
-    {%- endfor -%}
-  {%- endif -%}
-  {%- if season == 'Season 12' -%}
-    {%- for page in collections.season12 -%}
-      <li>
-        <a href="{{ page.url }}">{{ page.data.title }}</a> -
-        <time datetime="{{ page.date }}">{{ page.date | dateDisplay("LLLL d, y") }}</time>
-        <br />
-        {{ page.content | safe }}
-      </li>
-    {%- endfor -%}
-  {%- endif -%}
-  {%- if season == 'Season 13' -%}
-    {%- for page in collections.season13 -%}
-      <li>
-        <a href="{{ page.url }}">{{ page.data.title }}</a> -
-        <time datetime="{{ page.date }}">{{ page.date | dateDisplay("LLLL d, y") }}</time>
-        <br />
-        {{ page.content | safe }}
-      </li>
-    {%- endfor -%}
-  {%- endif -%}
-  {%- if season == 'Season 14' -%}
-    {%- for page in collections.season14 -%}
-      <li>
-        <a href="{{ page.url }}">{{ page.data.title }}</a> -
-        <time datetime="{{ page.date }}">{{ page.date | dateDisplay("LLLL d, y") }}</time>
-        <br />
-        {{ page.content | safe }}
-      </li>
-    {%- endfor -%}
-  {%- endif -%}
-  </ul>
   </div>
 </main>
