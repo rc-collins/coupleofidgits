@@ -11,11 +11,12 @@ templateEngineOverride: njk, md
   {{ content | safe }}
 
 <ul>
-  {%- set nextPost = collections.episode | getNextCollectionItem(page) %}
+  {%- set nextPost = collections.posts | getNextCollectionItem(page) %}
   {%- if nextPost %}<li>Next: <a href="{{ nextPost.url | url }}">{{ nextPost.data.title }}</a></li>{% endif %}
-  {%- set previousPost = collections.episode | getPreviousCollectionItem(page) %}
+  {%- set previousPost = collections.posts | getPreviousCollectionItem(page) %}
   {%- if previousPost %}<li>Previous: <a href="{{ previousPost.url | url }}">{{ previousPost.data.title }}</a></li>{% endif %}
 </ul>
+
 
   <h2>{{ season }}</h2>
   <ul class="podcasts">
