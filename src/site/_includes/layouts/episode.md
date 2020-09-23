@@ -13,8 +13,8 @@ templateEngineOverride: njk, md
 <div id="disqus_thread"></div>
 <script>
 var disqus_config = function () {
-this.page.url = {{ url }};
-this.page.identifier = {{ fileSlug }};
+this.page.url = "{{ this.page.url }}";
+this.page.identifier = "{{ this.page.fileSlug }}";
 };
 (function() {
 var d = document, s = d.createElement('script');
