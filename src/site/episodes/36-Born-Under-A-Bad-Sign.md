@@ -1,6 +1,6 @@
 ---
-title: Episode 36 - Born under a bad sign
-subtitle: S02E14 - Born under a bad sign 
+title: Episode 36 - Born Under a Bad Sign
+subtitle: S02E14 - Born Under a Bad Sign 
 date: 2020-10-02
 season: Season 2
 tags: ['episode','season2']
