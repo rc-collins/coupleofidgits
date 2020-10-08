@@ -1,6 +1,6 @@
 ---
-title: Episode 23 - In my time of dying
-subtitle: S02E01 - In my time of ding
+title: Episode 23 - In My Time of Dying
+subtitle: S02E01 - In My Time of Dying
 date: 2020-09-14
 season: Season 2
 tags: ['episode','season2']
