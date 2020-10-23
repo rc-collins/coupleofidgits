@@ -1,9 +1,9 @@
 ---
 title: Episode 45 - The Magnificent Seven
-subtitle: S032E01 - The Magnificent Seven
+subtitle: S03E01 - The Magnificent Seven
 date: 2020-10-22
 season: Season 3
-tags: ['episode','season2']
+tags: ['episode','season3']
 ---
 
 Sins, like Pokemon, you gotta collect them all.  Dean, is all smiles, as he takes on Lust. Sam, not so much, as he is getting beat up as usual. Thank goodness for his secret admirer to save his bacon.
