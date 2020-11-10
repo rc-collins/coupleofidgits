@@ -1,4 +1,3 @@
-
 ---
 title: Episode 56 - Jus In Bello
 subtitle: S03E12 - Jus In Bello
