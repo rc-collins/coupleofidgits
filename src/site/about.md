@@ -12,6 +12,8 @@ Penny is a stay at home wife whos first love is her dogs.  Behind them are Super
 
 Dan builds Internet. While he will watch pretty much any TV, he tends to be a geek and prefers to watch YouTube videos of electronics being taking to bits.
 
+If you hear dogs barking in the background, or otherwise interupting the show.  Those are "The Hellhounds"; Nala, Harley and Buddy.
+
 
 ## Connect
 
@@ -20,6 +22,5 @@ Dan builds Internet. While he will watch pretty much any TV, he tends to be a ge
 - Penny Samuelson - [Facebook](https://www.facebook.com/penny.samuelsonconderman)
 - Daniel Conderman - [YouTube](https://www.youtube.com/danconderman), [Facebook](https://www.facebook.com/conderman)
 
-Test Edit Commit
 
 
