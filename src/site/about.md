@@ -12,7 +12,7 @@ Penny is a stay at home wife whos first love is her dogs.  Behind them are Super
 
 Dan builds Internet. While he will watch pretty much any TV, he tends to be a geek and prefers to watch YouTube videos of electronics being taking to bits.
 
-If you hear dogs barking in the background, or otherwise interupting the show.  Those are "The Hellhounds"; Nala, Harley and Buddy.
+If you hear dogs barking in the background, or otherwise interupting the show, Those are "The Hellhounds"; Nala, Harley and Buddy.
 
 
 ## Connect
