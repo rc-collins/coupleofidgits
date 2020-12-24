@@ -42,6 +42,4 @@ layout: layouts/base.njk
   }
 </style>
 
-## Test
 
-Test Para
