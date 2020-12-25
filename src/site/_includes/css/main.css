@@ -113,7 +113,9 @@ a:focus {
 }
 
 .nav {
-    padding-top: 3em
+    padding-top: 3em;
+    padding-left: 0;
+
 }
 
 .nav li {
