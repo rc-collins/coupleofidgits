@@ -114,6 +114,7 @@ a:focus {
 
 .nav {
   padding-top: 3em;
+  padding-left: 0;
 
   li {
     display: inline;
@@ -130,7 +131,8 @@ a:focus {
     padding-bottom: 2em;
     margin-left: 0;
     margin-right: 0.7em;
-    width: 9em;
+    width: 28%;
+    max-width: 9em;
     text-align: left;
     color: mix($text-color, $accent-color, 80%);
     text-decoration: none;
