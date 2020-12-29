@@ -41,6 +41,3 @@ layout: layouts/base.njk
     -moz-columns: 2;  
   }
 </style>
-
-
-
