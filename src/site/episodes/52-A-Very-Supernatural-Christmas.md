@@ -8,6 +8,6 @@ tags: ['episode','season3']
 
 Sam and Dean sing Christmas carols to a drunk, in the saddest Christmas Special ever. ... We don't even see fresh snow!
 
-Download: http://cast.rocks/hosting/27557/Supernatural-52-A-Very-Supernatural-Christmas.mp3
+Download: [http://cast.rocks/hosting/27557/Supernatural-52-A-Very-Supernatural-Christmas.mp3](http://cast.rocks/hosting/27557/Supernatural-52-A-Very-Supernatural-Christmas.mp3)
 
 <iframe src="https://cast.rocks/player/27557/Supernatural-52-A-Very-Supernatural-Christmas.mp3?episodeTitle=Episode%2052%20-%20A%20Very%20Supernatural%20Christmas&podcastTitle=Couple%20of%20Idjits&episodeDate=November%201st%2C%202020&imageURL=https%3A%2F%2Fcast.rocks%2Fhosting%2F27557%2Ffeeds%2FCAURZ.jpg" style="border: none; min-height: 265px; max-height: 320px; max-width: 558px; min-width: 270px; width: 100%; height: 100%;" scrollbars="no"></iframe>
