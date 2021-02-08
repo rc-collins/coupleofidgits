@@ -7,7 +7,7 @@ permalink: sitemap.xml
   {%- if page.data.layout %}
   <url>
     <loc>{{ site.rootUrl }}{{ page.url }}</loc>
-    <lastmod>{{ page.date|date:'Y-m-d' }}</lastmod>
+    <lastmod>{{ page.date | date("YYYY-MM-DD") }}</lastmod>
   </url>
   {%- endif %}
   {%- endfor %}
