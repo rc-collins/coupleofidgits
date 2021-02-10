@@ -6,7 +6,7 @@ season: Season 2
 tags: ['episode','season2']
 ---
 
-Dean has 99 problems but a wish ain't one.  He needs to be worried about a Jinn sucking his juice. 
+Dean has 99 problems but a wish ain't one.  He needs to be worried about a Djinn sucking his juice. 
 
 Download: [http://cast.rocks/hosting/27557/Supernatural-42-What-Is-and-What-Should-Never-Be.mp3](http://cast.rocks/hosting/27557/Supernatural-42-What-Is-and-What-Should-Never-Be.mp3)
  
