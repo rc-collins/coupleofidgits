@@ -6,7 +6,7 @@ season: Season 4
 tags: ['episode','season4']
 ---
 
-We travel back to 1997 and watch Sam pound a bully and Dean try and pound a blond.
+We travel back to 1997 and watch Sam pound a bully and Dean try to pound a blond.
 
 Download: [http://cast.rocks/hosting/27557/Supernatural-73-After-School-Special.mp3](http://cast.rocks/hosting/27557/Supernatural-73-After-School-Special.mp3)
 
