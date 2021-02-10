@@ -6,7 +6,7 @@ season: Season 2
 tags: ['episode','season2']
 ---
 
-As usual, no one is listening to Dean and john possibly makes a shady deal. Bobby is left in charge of car repairs.
+As usual, no one is listening to Dean and John possibly makes a shady deal. Bobby is left in charge of car repairs.
 
 Download: <a href="http://cast.rocks/hosting/27557/Supernatural-23-In-my-time-of-dying.mp3" Alt="Supernatural Episode 23 - In My Time of Dying">http://cast.rocks/hosting/27557/Supernatural-23-In-my-time-of-dying.mp3</a>
 
