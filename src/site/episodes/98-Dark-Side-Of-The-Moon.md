@@ -15,9 +15,9 @@ Download: [http://cast.rocks/hosting/27557/Supernatural-98-Dark-Side-Of-The-Moon
 
 S5 E16 -
 
-Dean Dieing, Sam Dieing, finding God, the amulete.
+Dean Dying, Sam Dying, finding God, the amulete.
 
-Sam and Dean get woekn up being held at gun point.
+Sam and Dean get woken up being held at gun point.
 Dean recocognises them as Roy and ..
 The kill Sam
 talk about killing Dean
