@@ -6,7 +6,7 @@ season: Season 3
 tags: ['episode','season3']
 ---
 
-Sam, Dean, Bobby, Lilith, Ruby the whole gang gets together to celebrate the season finally. But only Lilith got to eat cake... the rest basically enjoyed each other's company like a real family, by arguing with each other endlessly.
+Sam, Dean, Bobby, Lilith, Ruby the whole gang gets together to celebrate the season finale. But only Lilith got to eat cake... the rest basically enjoyed each other's company like a real family, by arguing with each other endlessly.
 
 Download: [http://cast.rocks/hosting/27557/Supernatural-60-No-Rest-For-the-Wicked.mp3](http://cast.rocks/hosting/27557/Supernatural-60-No-Rest-For-the-Wicked.mp3)
 
