@@ -1,17 +1,8 @@
 ---
 title: Episode 999 - Test
-subtitle: Introductions and explanation on what we are doing.
+subtitle: TEST
 date: 2020-08-12
-season: Season 1
-tags: ['episode','season0']
+season: Season TEST
+tags: ['episode','seasonTEST']
 ---
-
-This is just a test
-
-Testing testing...
-
-LOL5000!
-
-This is the end....
-
 
