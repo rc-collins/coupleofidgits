@@ -1,7 +1,7 @@
 ---
 title: Episode 108 - Weekend at Bobby's
 subtitle: S06E04 - Weekend at Bobby's
-date: 2021-03-31
+date: 2021-04-04
 season: Season 6
 tags: ['episode','season6']
 ---
