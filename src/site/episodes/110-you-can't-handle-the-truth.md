@@ -1,4 +1,3 @@
-
 ---
 title: Episode 110 - You Can't Handle the Truth
 subtitle: S06E06 - You Can't Handle the Truth
