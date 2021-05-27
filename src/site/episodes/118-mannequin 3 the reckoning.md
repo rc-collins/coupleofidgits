@@ -1,6 +1,6 @@
 ---
-title: Episode 118 - Mannequin 3 The Reckoning
-subtitle: S06E14 Mannequin 3 The Reckoning
+title: Episode 118 - Mannequin 3 - The Reckoning
+subtitle: S06E14 Mannequin 3 - The Reckoning
 date: 2021-05-27
 season: Season 6
 tags: ['episode','season6']
